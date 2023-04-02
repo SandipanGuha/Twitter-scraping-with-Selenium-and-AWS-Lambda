@@ -8,6 +8,7 @@ authors = ["Replit user <<>>"]
 python = "^3.10"
 selenium = "^4.8.3"
 pandas = "^1.5.3"
+nfv-manager = "^1.3.3"
 
 [tool.poetry.dev-dependencies]
 
